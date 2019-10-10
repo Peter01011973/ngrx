@@ -1,0 +1,22 @@
+<form [formGroup]="carsForm" (ngSubmit)="onAdd()">
+<div class="form-group">  
+    <label for="carName">Car name</label>
+    <input 
+    type="text" 
+    class="form-control" 
+    id="carName" 
+    formControlName="carName"
+    placeholder="Car name">
+</div>
+<div class="form-group">
+    <label for="carModel">Car model</label>
+    <input 
+    type="text" 
+    class="form-control" 
+    id="carModel" 
+    formControlName="carModel"
+    placeholder="Car model">
+</div>
+<button class="btn btn-outline-primary">Add car</button>
+<button type="button" class="btn btn-outline-warning" (click)="onLoad()">Load car</button>
+</form>
