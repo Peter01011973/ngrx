@@ -1,0 +1,74 @@
+{
+  "cars": [
+    {
+      "name": "toyota",
+      "model": "Camry",
+      "date": "07/10/2019",
+      "isSold": true,
+      "id": 2
+    },
+    {
+      "name": "ford",
+      "model": "mustang",
+      "date": "07/10/2019",
+      "isSold": true,
+      "id": 3
+    },
+    {
+      "name": "Ford",
+      "model": "Fiesta",
+      "date": "07/10/2019",
+      "isSold": false,
+      "id": 4
+    },
+    {
+      "name": "Jeep",
+      "model": "Cherocky",
+      "date": "07/10/2019",
+      "isSold": false,
+      "id": 6
+    },
+    {
+      "name": "",
+      "model": "",
+      "date": "07/10/2019",
+      "isSold": false,
+      "id": 7
+    },
+    {
+      "name": "",
+      "model": "",
+      "date": "07/10/2019",
+      "isSold": false,
+      "id": 8
+    },
+    {
+      "name": "",
+      "model": "",
+      "date": "07/10/2019",
+      "isSold": false,
+      "id": 9
+    },
+    {
+      "name": "",
+      "model": "",
+      "date": "07/10/2019",
+      "isSold": false,
+      "id": 10
+    },
+    {
+      "name": "ff",
+      "model": "dd",
+      "date": "08/10/2019",
+      "isSold": false,
+      "id": 11
+    },
+    {
+      "name": "",
+      "model": "",
+      "date": "08/10/2019",
+      "isSold": false,
+      "id": 12
+    }
+  ]
+}
